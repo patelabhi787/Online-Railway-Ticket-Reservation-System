@@ -1,0 +1,19 @@
+.loginBox {
+	width: 950px;
+	}
+	
+
+.centered a {
+  background-color: #f44336;
+  color: white;
+  padding: 13px 13px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 25px;
+	}
+
+.centered a:hover, a:active {
+  background-color: red;
+	}
